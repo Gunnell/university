@@ -28,7 +28,6 @@ void insert(HashTableEntry* table[], int color) {
         entry = entry->next;
     }
     
-    // If the color is not found, create a new entry
     entry = (HashTableEntry*)malloc(sizeof(HashTableEntry));
     entry->color = color;
     entry->count = 1;
