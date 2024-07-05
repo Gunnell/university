@@ -1,0 +1,36 @@
+Test Cases:
+4
+yellow green red blue
+green blue red yellow
+yellow blue red green
+green yellow red blue
+
+5
+red blue green purple turquoise
+red blue green purple turquoise
+red blue green purple turquoise
+red blue green purple turquoise
+red blue green purple turquoise
+
+5
+red blue green purple turquoise
+turquoise red blue green purple
+red blue green purple turquoise
+purple turquoise red blue green
+blue green purple turquoise red
+
+4
+red blue green purple
+red blue green purple
+purple red blue green
+purple red blue green
+
+3
+blue green red
+red blue green
+red blue green
+
+3
+blue green red
+red green blue
+red blue green
